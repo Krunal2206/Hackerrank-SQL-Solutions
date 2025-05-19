@@ -1,0 +1,1 @@
+select count city from city where population>100000;
